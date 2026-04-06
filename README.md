@@ -64,9 +64,9 @@ python app.py
 ## 📷 Demo
 
 <p align="center">
-  <img src="assets/image.png" width="400"/>
-  <img src="assets/image-1.png" width="400"/>
-  <img src="assets/image-2.png" width="550"/>
+  <img src="screenshots/image.png" width="400"/>
+  <img src="screenshots/image-1.png" width="400"/>
+  <img src="screenshots/image-2.png" width="550"/>
 </p>
 ---
 
